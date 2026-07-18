@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 가로로 나란히 배치하려면 줄바꿈 없이 이어 붙이세요 -->
-![Java](https://shields.io)
-![Python](https://shields.io)
-![React](https://shields.io)
+
